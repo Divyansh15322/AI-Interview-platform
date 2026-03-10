@@ -54,7 +54,7 @@ export default function LandingPage() {
         <div className="relative max-w-4xl mx-auto">
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full glass border border-violet-500/30 text-violet-300 text-sm font-medium mb-8">
             <Zap className="w-4 h-4" />
-            Powered by GPT-4 · Real-time AI evaluation
+            Powered by Gemini· Real-time AI evaluation
           </div>
 
           <h1 className="text-6xl md:text-8xl font-display font-bold text-white leading-[0.9] tracking-tight mb-6">
