@@ -30,6 +30,7 @@ app.use('/api/', limiter);
 app.use(cors({
   origin: [
     "https://ai-interview-platform-liart.vercel.app",
+     "https://localhost:5173",
     "https://ai-interview-platform-r9cqsy8oj-divyansh15322s-projects.vercel.app"
   ],
   credentials: true
