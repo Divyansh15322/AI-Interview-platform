@@ -1,6 +1,6 @@
 const multer = require('multer');
 const pdfParse = require('pdf-parse');
-const { analyzeResume } = require('../utils/openai');
+const { analyzeResume } = require('../utils/gemini');
 
 const storage = multer.memoryStorage();
 const upload = multer({
