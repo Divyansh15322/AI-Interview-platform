@@ -6,7 +6,7 @@ const {
   generateQuestions,
   evaluateAnswer,
   generateFinalReport
-} = require('../utils/openai');
+} = require('../utils/gemini');
 
 
 /* ==============================
